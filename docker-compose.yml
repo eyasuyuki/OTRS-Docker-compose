@@ -1,0 +1,5 @@
+otrs:
+  image: ioarchitectjp/otrs5_helpdesk_jp
+  ports:
+    - "8080:80"
+  container_name: otrs5-helpdesk
